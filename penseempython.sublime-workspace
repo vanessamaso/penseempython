@@ -1,0 +1,459 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"RDOPENSHIFT",
+				"RD_OPTION_OPENSHIFT_PROJECT"
+			],
+			[
+				"JEN",
+				"JENKINS_BUILD_ID"
+			],
+			[
+				"migrated_",
+				"migrated_job_file"
+			],
+			[
+				"migra",
+				"migrated_job_file"
+			],
+			[
+				"openshif",
+				"openshift_project"
+			],
+			[
+				"job_file",
+				"migrated_job_file"
+			],
+			[
+				"job",
+				"job_name_bkp"
+			],
+			[
+				"rd_",
+				"rd_job_name"
+			],
+			[
+				"rd",
+				"rd_job_id"
+			],
+			[
+				"json",
+				"jsonStr"
+			],
+			[
+				"RD_OPTION_OP",
+				"RD_OPTION_OPENSHIFT_PASSWORD"
+			],
+			[
+				"EN",
+				"RD_OPTION_ENVIRONMENT"
+			],
+			[
+				"name",
+				"nameSpace"
+			],
+			[
+				"app",
+				"appName"
+			],
+			[
+				"GITLAB",
+				"GITLAB_FULL_URL"
+			],
+			[
+				"RD_OPTION",
+				"RD_OPTION_GITLAB_URL"
+			],
+			[
+				"con",
+				"configSul"
+			],
+			[
+				"config",
+				"configNorte"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 92.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/cbernini/Documents/studies/penseempython"
+	],
+	"file_history":
+	[
+		"/home/cbernini/pedt001-dadobasic.yaml",
+		"/home/cbernini/Documents/devops/engineering/sample-def-prd.yaml",
+		"/home/cbernini/Documents/devops/engineering/sample-deploy.yaml",
+		"/home/cbernini/Documents/devops/jobber/template/DEPLOY_OPENSHIFT-CROSS.yml",
+		"/home/cbernini/Documents/devops/jobber/template/OPENSHIFT-DEPLOYMENT-PRODUCTION_TEMPLATE_NORTH_ONLY.yml",
+		"/home/cbernini/Documents/devops/jobber/template/OPENSHIFT-DEPLOYMENT-PRODUCTION_TEMPLATE.yml",
+		"/home/cbernini/Documents/devops/jobber/template/OPENSHIFT-DEPLOYMENT-PRE_TEMPLATE_NORTH_ONLY.yml",
+		"/home/cbernini/Documents/devops/jobber/template/OPENSHIFT-DEPLOYMENT-PRE_TEMPLATE.yml",
+		"/home/cbernini/Documents/devops/jobber/template/OPENSHIFT-DEPLOYMENT_TEMPLATE.yml",
+		"/home/cbernini/Documents/devops/engineering/create_secret/PROVIS_OPENSHIFT-SECRET-CROSS.yaml",
+		"/home/cbernini/Documents/devops/engineering/sample-def-dev.yaml",
+		"/home/cbernini/Documents/devops/engineering/job_updater.sh",
+		"/home/cbernini/Documents/devops/poc_apm/job_updater.sh",
+		"/home/cbernini/Documents/devops/poc_apm/create_secret.sh",
+		"/home/cbernini/Desktop/untitled.yaml",
+		"/home/cbernini/Documents/devops/poc_apm/sample-deploy.yaml",
+		"/home/cbernini/Documents/devops/poc_apm/sample-def-prd.yaml",
+		"/home/cbernini/Documents/devops/engineering/sample-def-generic.yaml",
+		"/home/cbernini/Desktop/tdump",
+		"/home/cbernini/Documents/devops/poc_apm/poc_apm.sh",
+		"/home/cbernini/Documents/devops/poc_apm/sample-dc.yaml",
+		"/home/cbernini/Documents/devops/comandos_openshift.md",
+		"/home/cbernini/Documents/devops/poc-bigdata/deploy.sh",
+		"/home/cbernini/Desktop/TG",
+		"/home/cbernini/Documents/devops/rundeck/DLB_AUTH-LDAP/DEPLOY_BACKEND_HOM.yaml",
+		"/home/cbernini/Documents/devops/deploy.sh",
+		"/home/cbernini/Documents/devops/rundeck/pod_creator_oficial.sh",
+		"/home/cbernini/Documents/devops/old_deploy.sh",
+		"/home/cbernini/Documents/devops/poc-bigdata/DEPLOY_PAAS-CROSS.yaml",
+		"/home/cbernini/evo-node-blue.yaml",
+		"/home/cbernini/evo-node-green.yaml",
+		"/home/cbernini/Documents/devops/rundeck/evo-node-pre.yaml",
+		"/home/cbernini/Documents/devops/rundeck/evo-node.yaml",
+		"/home/cbernini/Documents/devops/rundeck/s2m-evo-backend.yaml",
+		"/home/cbernini/Desktop/PROVIS_OPENSHIFT_CREATE_POD.yaml",
+		"/home/cbernini/Documents/devops/rundeck/pod_creator.sh",
+		"/home/cbernini/Documents/devops/poc-bigdata/deploy.sh.old",
+		"/home/cbernini/Documents/devops/docker-pipeline/templates/OPENSHIFT/DEPLOYMENT_CONFIG/JAVASE/DC.yaml",
+		"/home/cbernini/Documents/devops/poc-bigdata/DC.yaml",
+		"/home/cbernini/Documents/devops/poc-bigdata/OPENSHIFT/TEMPLATES/nodejs.yaml",
+		"/home/cbernini/Documents/devops/docker-pipeline/templates/OPENSHIFT/DEPLOYMENT_CONFIG/NODEJS/DC.yaml",
+		"/home/cbernini/Documents/devops/docker-pipeline/templates/NODE/6/nodejs.yaml",
+		"/home/cbernini/Documents/devops/poc-bigdata/notes",
+		"/home/cbernini/Documents/devops/poc-bigdata/deploy.yaml",
+		"/home/cbernini/Documents/devops/poc-bigdata/OPENSHIFT/DEPLOYMENT_CONFIG/DC.yaml",
+		"/home/cbernini/Documents/devops/poc-bigdata/openshift/deploymentconfig/deploymentconfig.yaml",
+		"/home/cbernini/Documents/devops/poc-bigdata/deploymentconfig/flume_dc.yaml",
+		"/home/cbernini/Documents/devops/poc-bigdata/PROVIS_RUNDECK-JOB-OPENSHIFT-DEPLOYMENT-CROSS.sh",
+		"/home/cbernini/Documents/devops/rundeck/DLB_AUTH-LDAP/_OPENSHIFT-LOGIN-CROSS.yaml",
+		"/home/cbernini/Downloads/redis-masterslave-template.yaml",
+		"/home/cbernini/Documents/devops/pre-replaces-configmap-frontend.yaml",
+		"/home/cbernini/Documents/devops/changeImage.sh",
+		"/home/cbernini/Documents/devops/poc-bigdata/flume_dc.yaml",
+		"/home/cbernini/Documents/devops/poc-bigdata/generic_flume_dc.yaml",
+		"/home/cbernini/Documents/devops/poc-bigdata/deploy_dc.sh",
+		"/home/cbernini/Documents/devops/poc-bigdata/flume-template.yaml",
+		"/home/cbernini/changeImage.sh",
+		"/home/cbernini/Documents/devops/poc-bigdata/flume-teste2_dc.yaml",
+		"/home/cbernini/Documents/devops/poc-bigdata/flume-sample.yaml",
+		"/home/cbernini/Documents/devops/rundeck/IBE_INTERNET-BANKING/DEPLOY_BACKEND-HOM.yaml",
+		"/home/cbernini/Documents/devops/rundeck/IBE_INTERNET-BANKING/DEPLOY_FRONT-TOOLBOX-HOM.yaml",
+		"/home/cbernini/Documents/devops/rundeck/IBE_INTERNET-BANKING/DEPLOY_BACK-PDFMAIL-HOM.yaml",
+		"/home/cbernini/Documents/devops/rundeck/IBE_INTERNET-BANKING/DEPLOY_BACK-TOOLBOX-HOM.yaml",
+		"/home/cbernini/Documents/devops/rundeck/IBE_INTERNET-BANKING/DEPLOY_BACK-JAB-HOM.yaml",
+		"/home/cbernini/Documents/devops/notas_json_openshift.sh",
+		"/home/cbernini/Documents/devops/rundeck/IBE_INTERNET-BANKING/old_DEPLOY_FRONT-TOOLBOX-HOM.yaml",
+		"/home/cbernini/Documents/devops/rundeck/IBE_INTERNET-BANKING/old_DEPLOY_BACK-TOOLBOX-HOM.yaml",
+		"/home/cbernini/Documents/devops/rundeck/IBE_INTERNET-BANKING/old_DEPLOY_BACK-PDFMAIL-HOM.yaml",
+		"/home/cbernini/Documents/devops/rundeck/IBE_INTERNET-BANKING/old_DEPLOY_BACK-JAB-HOM.yaml",
+		"/home/cbernini/Desktop/170817_handover_liquibase.md",
+		"/home/cbernini/Documents/devops/rundeck/PVD_Portal-Vendas-Tesouraria/two.yaml",
+		"/home/cbernini/Documents/devops/rundeck/PVD_Portal-Vendas-Tesouraria/one.yaml",
+		"/home/cbernini/Documents/devops/rundeck/PVD_Portal-Vendas-Tesouraria/DEPLOY_PVD-FRONT-HOM.yaml",
+		"/home/cbernini/Documents/devops/rundeck/PVD_Portal-Vendas-Tesouraria/DEPLOY_PVD-BACK-HOM.yaml",
+		"/home/cbernini/Documents/devops/rundeck/SPA_Front-Unico/DEPLOY_FRONTEND-HOM.yaml",
+		"/home/cbernini/Documents/devops/rundeck/PVD_Portal-Vendas-Tesouraria/old_ DEPLOY_PVD-BACK-HOM.yaml",
+		"/home/cbernini/Documents/devops/rundeck/PVD_Portal-Vendas-Tesouraria/old_DEPLOY_PVD-FRONT-HOM.yaml",
+		"/home/cbernini/Documents/devops/rundeck/MBB_MOBILE-BANKING/DEPLOY_AUTH-HOM.yaml",
+		"/home/cbernini/Documents/devops/rundeck/PVD_Portal-Vendas-Tesouraria/DEPLOY_PVD-BACK-HOM.yamml",
+		"/home/cbernini/Documents/devops/rundeck/MOC_FORMALIZACAO-DIGITAL/DEPLOY_FOR-BLUE-PRD.yaml",
+		"/home/cbernini/Documents/devops/rundeck/MOC_FORMALIZACAO-DIGITAL/old_DEPLOY_FOR-BLUE-PRD.yaml",
+		"/home/cbernini/Desktop/HANDOVER_PLANTAO",
+		"/home/cbernini/Documents/MOC_FORMALIZACAO-DIGITAL/DEPLOY_FEP-GREEN-PRD.yaml",
+		"/home/cbernini/Documents/MOC_FORMALIZACAO-DIGITAL/old_DEPLOY_FEP-GREEN-PRD.yaml",
+		"/home/cbernini/Documents/rdkjob/MOC_FORMALIZACAO-DIGITAL/old_DEPLOY_FEP-BLUE-PRD.yaml",
+		"/home/cbernini/Documents/rdkjob/MOC_FORMALIZACAO-DIGITAL/DEPLOY_FEP-BLUE-PRD.yaml",
+		"/home/cbernini/Documents/devops/engdevops/comandos_openshift.md",
+		"/home/cbernini/Documents/MOC_FORMALIZACAO-DIGITAL/old_DEPLOY_MOC-BLUE-PRD.yaml",
+		"/home/cbernini/Documents/MOC_FORMALIZACAO-DIGITAL/DEPLOY_MOC-BLUE-PRD.yaml",
+		"/home/cbernini/Documents/rdkjob/MOC_FORMALIZACAO-DIGITAL/DEPLOY_FOR-GREEN-PRD.yaml",
+		"/home/cbernini/Documents/rdkjob/MOC_FORMALIZACAO-DIGITAL/old_DEPLOY_FOR-GREEN-PRD.yaml",
+		"/home/cbernini/Documents/rdkjob/MOC_FORMALIZACAO-DIGITAL/old_DEPLOY_FOR-BLUE-PRD.yaml",
+		"/home/cbernini/Documents/volumes.rb",
+		"/home/cbernini/Documents/criar_secret.sh",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/DEPLOY_DLB-GREEN_PRD.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/DEPLOY_DLB-BLUE_PRD.yaml",
+		"/home/cbernini/Documents/rdkjob/PFX_PORTAL-DE-CAMBIO/old_DEPLOY_PFX-CAMBIO-BLUE-PRD.yaml",
+		"/home/cbernini/Documents/rdkjob/PFX_PORTAL-DE-CAMBIO/DEPLOY_PFX-CAMBIO-BLUE-PRD.yaml",
+		"/home/cbernini/Documents/rdkjob/PFX_PORTAL-DE-CAMBIO/old_DEPLOY_PFX-CAMBIO-GREEN-PRD.yaml",
+		"/home/cbernini/Documents/rdkjob/PFX_PORTAL-DE-CAMBIO/DEPLOY_PFX-CAMBIO-GREEN-PRD.yaml",
+		"/home/cbernini/Documents/rdkjob/WCC_COORDENADOR_CANAIS_WAY/ENV",
+		"/home/cbernini/Documents/vpn.sh",
+		"/home/cbernini/Documents/evpn.sh",
+		"/home/cbernini/Documents/PipelineBigData",
+		"/home/cbernini/Documents/rdkjob/base_templates.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/old_OPENSHIFT-LOGOUT_CROSS.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/_OPENSHIFT-LOGIN-CROSS.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/old_DEPLOY_DLB_HOM.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/_OPENSHIFT-DEPLOYMENT_CROSS.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/_ROUTE-SWITCH-EXPOSE-BLUE_CROSS.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/DEPLOY_DLB_HOM.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/DEPLOY_BACKEND_HOM.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/old__OPENSHIFT-DEPLOYMENT_CROSS.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/old_DEPLOY_BACKEND_HOM.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/_ROUTE-SWITCH-EXPOSE-GREEN_CROSS.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/old__ROUTE-SWITCH-EXPOSE-BLUE_CROSS.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/old__ROUTE-SWITCH-EXPOSE-GREEN_CROSS.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/old__OPENSHIFT-LOGIN-CROSS.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/old_DEPLOY_DLB-GREEN_PRD.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/old_DEPLOY_DLB-BLUE_PRD.yaml",
+		"/home/cbernini/Desktop/todo",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/_OPENSHIFT-LOGIN_CROSS.yaml",
+		"/home/cbernini/Documents/rdkjob/DLB_AUTH-LDAP/old__OPENSHIFT-LOGIN_CROSS.yaml",
+		"/home/cbernini/Documents/rdkjob/MSG_MENSAGERIA/old__OPENSHIFT-LOGIN_CROSS.yaml",
+		"/home/cbernini/Documents/devops/automatizar vpn everis",
+		"/home/cbernini/Documents/devops/engdevops/docs.md",
+		"/home/cbernini/Documents/rdkjob/import.sh",
+		"/home/cbernini/Documents/rdkjob/old_PROVIS_RUNDECK-JOB-OPENSHIFT-DEPLOYMENT-CROSS.sh"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"secret",
+			"remove",
+			"_OPENSHIFT-LOGIN_CROSS",
+			"_OPENSHIFT-LOGOUT_CROSS",
+			"logmsg 1",
+			"erro",
+			"{",
+			"\\",
+			"regex",
+			"\\.|\\[|\\]",
+			".",
+			"app.info",
+			"image",
+			"config",
+			".",
+			"bdmbr",
+			"-dev",
+			"cmpn",
+			"@APP_NAME",
+			"@PROJECT_NAME",
+			"@APP_NAME",
+			"${ARTIFACT_URL}",
+			"${APP_NAME}",
+			"@",
+			"und",
+			"-dev",
+			"backend",
+			"HOME",
+			"DEPLOYMENT_CONFIG_FILE",
+			"GITLAB_FULL_URL",
+			"DC_FILE",
+			"oc",
+			"RD_OPTION",
+			"KEY",
+			"GITLAB",
+			"KEY",
+			"service",
+			"oc new app",
+			"new",
+			"dc",
+			"edit",
+			"oc edit",
+			"remove",
+			"volume",
+			"dbwccpvlbr01",
+			"/etc/secrets/keychain/user",
+			"configmap",
+			"rundeck",
+			"TEMPLATE_JOB_DEPLOYMENT",
+			"TEMPLATE_JOB_DEPLOYMENT_FILE",
+			"TEMPLATE_JOB_DEPLOYMENT",
+			"dev",
+			"deploy",
+			"TEMPLATE_JOB_DEPLOYMENT_FILE",
+			"TEMPLATE_JOB_SWITCH_BLUE_CROSS_FILE",
+			"yml",
+			"login",
+			"cmpn",
+			"login",
+			"create",
+			"route",
+			"nat",
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"_OPENSHIFT-LOGIN-CROSS",
+			"_OPENSHIFT-LOGOUT-CROSS",
+			"# logmsg 1",
+			"/",
+			"@OPENSHIFT_PROJECT",
+			"-@ENVIRONMENT",
+			"@ENVIRONMENT",
+			"@REGION",
+			"@OPENSHIFT_APP",
+			"@OPENSHIFT_PROJECT",
+			"@OPENSHIFT_APP",
+			"@ARTIFACT_URL",
+			"@APP_NAME",
+			"",
+			"@PROJECT_NAME",
+			"@ENVIRONMENT",
+			"@APP_NAME",
+			"home",
+			"DeploymentConfigFile",
+			"GitLabFullURL",
+			"DeploymentConfigFile",
+			"dbwccpvlbr01.bs.br.bsch",
+			"/etc/secrets/keychain/username",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "penseempython.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 357.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
