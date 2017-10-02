@@ -62,8 +62,8 @@ def print_four(v):
 def desenhar_grade():
     line1 = '+ - - - - '
     line2 = '|         '
-    print_four(line1 * 4 + '+\n' + ((line2 * 4 + '|' + '\n') * 4))
-    print(line1 * 4 + '+')
+    print_four(line1 * 4 + '+\n' + ((line2 * 4 + '|\n') * 4)) # 4 linhas e 4 colunas
+    print(line1 * 4 + '+') # linha final
 
 
 
