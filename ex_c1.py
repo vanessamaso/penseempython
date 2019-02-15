@@ -14,5 +14,5 @@ print((42 * 60 + 42) / (10 / 1.61) / 60)
 
 ## Qual é a sua velocidade média em milhas por hora?
 
-print((42 * 60 + 42) / (60*60))
+print(10 / 1.61) / ((42 * 60 + 42) / (60*60))
 
